@@ -1,5 +1,12 @@
-{
-  "title": "how to make blender better",
-  "thumbnail": "https://marketplace.canva.com/EAEqfS4X0Xw/1/0/1600w/canva-most-attractive-youtube-thumbnail-wK95f3XNRaM.jpg",
-  "video": "https://github.com/LillyPK/video-repo/raw/refs/heads/main/1.webm"
-}
+[
+  {
+    "thumbnail": "https://example.com/thumbnail1.jpg",
+    "title": "Video Title 1",
+    "link": "https://example.com/video1"
+  },
+  {
+    "thumbnail": "https://example.com/thumbnail2.jpg",
+    "title": "Video Title 2",
+    "link": "https://example.com/video2"
+  }
+]
